@@ -1,1 +1,2 @@
-# swiggy clone  using html css
+# SwiggyClone.github.io
+Swiggy clone website- using HTML and  CSS
